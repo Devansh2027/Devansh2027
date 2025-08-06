@@ -141,7 +141,7 @@ Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/THE_ROMEO_CONTACT_BOT)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh2027)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh.17946@sakec.ac.in
 
 ### 🌟 Join My Community
 [![Telegram Channel](https://img.shields.io/badge/Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TEAM_SILENT_KING)
@@ -160,27 +160,7 @@ Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Spotify Playing
 
-<div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-If you like my work and want to support me, consider buying me a coffee!
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devansh2027)
-
-</div>
-
----
 
 <div align="center">
   
@@ -188,21 +168,6 @@ If you like my work and want to support me, consider buying me a coffee!
 
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
-### 🔥 Contribution Stats
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-  
-### 📅 Contribution Calendar
-[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-</div>
 
 ---
 
