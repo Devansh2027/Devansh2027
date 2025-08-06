@@ -66,13 +66,11 @@ class Devansh:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTTPx Toolkit](https://img.shields.io/badge/HTTPx_Toolkit-FF4081?style=for-the-badge&logo=http&logoColor=white)
 
-### Hardware & FPGA Tools
+### Tools
 ![Cadence](https://img.shields.io/badge/Cadence-FF6B35?style=for-the-badge&logo=cadence&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31E24?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1976D2?style=for-the-badge&logo=proteus&logoColor=white)
@@ -119,10 +117,9 @@ class Devansh:
 - 🌐 Building responsive web applications
 - 🤖 Creating Python automation scripts & Telegram bots
 - 🔧 FPGA development and hardware design projects
-- 📱 Learning advanced web technologies
-- 🛠️ Contributing to open source projects
+- 📱 Learning Code optimization
 
-### 🎯 2024 Goals:
+### 🎯 2025 Goals:
 - [ ] Contribute to 50+ open source projects
 - [ ] Master React.js and Node.js
 - [ ] Build 10+ full-stack applications
@@ -131,21 +128,7 @@ class Devansh:
 
 ---
 
-## 📈 Coding Activity
 
-<!--START_SECTION:waka-->
-```text
-Week: 23 July, 2024 - 30 July, 2024
-
-Python       8 hrs 30 mins   ████████████░░░░░░░░░░░░░   45.2%
-JavaScript   4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   22.8%
-HTML         2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
-CSS          1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    9.8%
-Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    7.5%
-```
-<!--END_SECTION:waka-->
-
----
 
 ## 🤝 Let's Connect!
 
@@ -172,27 +155,9 @@ Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Spotify Playing
 
-<div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
 
-</div>
 
----
-
-## ☕ Support My Work
-
-If you like my work and want to support me, consider buying me a coffee!
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devansh2027)
-
-</div>
-
----
 
 <div align="center">
   
@@ -200,22 +165,7 @@ If you like my work and want to support me, consider buying me a coffee!
 
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
-### 🔥 Contribution Stats
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true)
-
 </div>
-
-<div align="center">
-  
-### 📅 Contribution Calendar
-[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-</div>
-
 ---
 
 <div align="center">
