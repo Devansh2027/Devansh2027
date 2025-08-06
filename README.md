@@ -64,8 +64,6 @@ class Devansh:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTTPx Toolkit](https://img.shields.io/badge/HTTPx_Toolkit-FF4081?style=for-the-badge&logo=http&logoColor=white)
-
-### Tools
 ![Cadence](https://img.shields.io/badge/Cadence-FF6B35?style=for-the-badge&logo=cadence&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31E24?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1976D2?style=for-the-badge&logo=proteus&logoColor=white)
