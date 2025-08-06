@@ -103,16 +103,14 @@ class Devansh:
 ### 🔥 What I'm working on:
 - 🌐 Building responsive web applications
 - 🤖 Creating Python automation scripts & Telegram bots
-- 🔧 FPGA development and hardware design projects
+- 🔧 Brain stroming project ideas 
 - 📱 Learning Code optimization
+  
 
 ### 🎯 2025 Goals:
-- [ ] Contribute to 50+ open source projects
-- [ ] Master React.js and Node.js
-- [ ] Build 10+ full-stack applications
-- [ ] Learn cloud technologies (AWS/Azure)
-- [ ] Reach 1000+ GitHub followers
-
+- [ ] Have minimum 1 copyright
+- [ ] Better hold on Python and System Verilog
+- [ ] Build 5+ projects 
 ---
 
 
@@ -123,7 +121,7 @@ class Devansh:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/THE_ROMEO_CONTACT_BOT)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh2027)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh.17946@sakec.ac.in)
 
 ### 🌟 Join My Community
 [![Telegram Channel](https://img.shields.io/badge/Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TEAM_SILENT_KING)
