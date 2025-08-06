@@ -50,6 +50,10 @@ class Devansh:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4ECDC4?style=for-the-badge&logo=systemverilog&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,6 +70,13 @@ class Devansh:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTTPx Toolkit](https://img.shields.io/badge/HTTPx_Toolkit-FF4081?style=for-the-badge&logo=http&logoColor=white)
+
+### Hardware & FPGA Tools
+![Cadence](https://img.shields.io/badge/Cadence-FF6B35?style=for-the-badge&logo=cadence&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31E24?style=for-the-badge&logo=xilinx&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1976D2?style=for-the-badge&logo=proteus&logoColor=white)
+![Keil5](https://img.shields.io/badge/Keil5-326CE5?style=for-the-badge&logo=arm&logoColor=white)
 
 ---
 
@@ -106,9 +117,10 @@ class Devansh:
 
 ### 🔥 What I'm working on:
 - 🌐 Building responsive web applications
-- 🤖 Creating Python automation scripts
-- 📱 Learning mobile app development
-- 🔧 Contributing to open source projects
+- 🤖 Creating Python automation scripts & Telegram bots
+- 🔧 FPGA development and hardware design projects
+- 📱 Learning advanced web technologies
+- 🛠️ Contributing to open source projects
 
 ### 🎯 2024 Goals:
 - [ ] Contribute to 50+ open source projects
@@ -141,7 +153,7 @@ Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/THE_ROMEO_CONTACT_BOT)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh2027)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh.17946@sakec.ac.in
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ### 🌟 Join My Community
 [![Telegram Channel](https://img.shields.io/badge/Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TEAM_SILENT_KING)
@@ -160,7 +172,27 @@ Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
+## 🎵 Spotify Playing
 
+<div align="center">
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you like my work and want to support me, consider buying me a coffee!
+
+<div align="center">
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devansh2027)
+
+</div>
+
+---
 
 <div align="center">
   
@@ -168,6 +200,21 @@ Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░
 
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
+### 🔥 Contribution Stats
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+### 📅 Contribution Calendar
+[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+</div>
 
 ---
 
