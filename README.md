@@ -188,7 +188,19 @@ If you like my work and want to support me, consider buying me a coffee!
 
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
-![Snake animation](https://github.com/Devansh2027/Devansh2027/blob/output/github-contribution-grid-snake.svg)
+### 🔥 Contribution Stats
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+### 📅 Contribution Calendar
+[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 </div>
 
