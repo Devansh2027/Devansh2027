@@ -86,12 +86,6 @@ class Devansh:
 
 </div>
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh2027&theme=redical)
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
