@@ -144,8 +144,6 @@ class Devansh:
 
 
 
-
-
 <div align="center">
   
 ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
@@ -153,7 +151,6 @@ class Devansh:
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
 </div>
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
