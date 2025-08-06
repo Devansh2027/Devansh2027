@@ -25,9 +25,9 @@ class Devansh:
         
     def current_focus(self):
         return [
-            "Full Stack Web Development",
+            "Web Developer",
             "Python Development",
-            "Open Source Contribution",
+            "Telegram Bot Developer",
             "Problem Solving"
         ]
     
@@ -36,10 +36,9 @@ class Devansh:
 ```
 
 - 🎓 **Currently**: 3rd Year Engineering Student
-- 🌱 **Learning**: Advanced Python, React.js, Node.js, and Cloud Technologies
-- 💡 **Interests**: Web Development, Automation, Gaming
+- 🌱 **Learning**: Advanced Python, Node.js, C, C++, Verilog, System Verilog....
+- 💡 **Interests**: Developing own Encryption system , Crack Various video playing systems , Gaming...
 - 📫 **Reach me**: [Telegram](https://t.me/THE_ROMEO_CONTACT_BOT)
-- ⚡ **Fun fact**: I can debug code faster with coffee ☕
 
 ---
 
