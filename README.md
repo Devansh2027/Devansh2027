@@ -107,7 +107,7 @@ class Devansh:
 - 📱 Learning Code optimization
   
 
-### 🎯 2025 Goals:
+### 🎯 2026 Goals:
 - [ ] Have minimum 1 copyright
 - [ ] Better hold on Python and System Verilog
 - [ ] Build 5+ projects 
