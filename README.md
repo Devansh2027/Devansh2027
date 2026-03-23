@@ -63,6 +63,7 @@ class Devansh:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTTPx Toolkit](https://img.shields.io/badge/HTTPx_Toolkit-FF4081?style=for-the-badge&logo=http&logoColor=white)
@@ -70,6 +71,9 @@ class Devansh:
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31E24?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1976D2?style=for-the-badge&logo=proteus&logoColor=white)
 ![Keil5](https://img.shields.io/badge/Keil5-326CE5?style=for-the-badge&logo=arm&logoColor=white)
+
+![JADX](https://img.shields.io/badge/JADX-Decompiler-orange?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-Reverse%20Engineering-red?style=for-the-badge)
 
 ---
 
